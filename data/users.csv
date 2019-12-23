@@ -1,0 +1,10 @@
+id,username,fullname,email,role
+1,rhendricks,Richard Hendricks,rhendricks@piedpiper.com,su
+2,bgilfoyle,Bertram Gilfoyle,bgilfoyle@piedpiper.com,dev
+3,dchugtai,Dinesh Chugtai,dchugtai@piedpiper.com,dev
+4,jdunn,Jared Dunn,jdunn@piedpiper.com,ops
+5,mhall,Monica Hall,mhall@piedpiper.com,biz
+6,ebachman,Erlich Bachman,ebachman@piedpiper.com,biz
+7,nbighetti,Nelson Bighetti,nbighetti@piedpiper.com,biz
+8,rlaflamme,Ron LaFlamme,rlaflamme@piedpiper.com,legal
+9,rhanneman,Russ Hanneman,rhanneman@piedpiper.com,markcomm
