@@ -53,13 +53,13 @@ Point your browser to `http://localhost:8080` to load the page.
 [csv-in]:     https://fantom.org/doc/util/CsvInStream
 [csv-out]:    https://fantom.org/doc/util/CsvOutStream
 
- * The [dom][doc-dom] covers practical API usage for the core DOM pod,
+ * The [dom][doc-dom] chapter covers practical API usage for the core DOM pod,
    including [HttpReq][doc-xhr].
 
  * The [docDomkit][doc-domkit] chapter covers the high level overview as
-   well as practial exmaples of all the DomKit APIs.
+   well as practical examples of all the DomKit APIs.
 
- * See [Table][doc-table] section for details on wiring `domkit::Table`
+ * See [Table][doc-table] section for details on wiring up `domkit::Table`
 
  * User demo data is available under `data/users.csv`
 
