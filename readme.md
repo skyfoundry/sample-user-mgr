@@ -6,7 +6,7 @@ a basic CRUD UI to edit a database of users using Fantom and DomKit.
 ## Setup
 
 [path-env]:    https://fantom.org/doc/docLang/Env#PathEnv
-[fan-install]: https://fantom-lang.org/download
+[fan-install]: https://fantom.org/download
 
 This repo contains a `fan.props` file which creates its own local
 [PathEnv][path-env]. You can verify this by running `fan -version`:
